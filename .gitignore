@@ -1,3 +1,4 @@
 env
 p3rpc*
 .env
+__pycache__
